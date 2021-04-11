@@ -12,7 +12,7 @@ pipeline {
                 sayHello 'Guru'
                 sayHello 'Vishwa'
 
-                echo 'The Devops Hero's are : ' + GlobalVars.foo
+                echo 'The Devops Heros are : ' + GlobalVars.foo
 
                 script {
                     def person = new SampleClass()
