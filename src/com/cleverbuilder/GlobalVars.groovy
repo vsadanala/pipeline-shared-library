@@ -2,7 +2,7 @@
 package com.cleverbuilder
 
 class GlobalVars {
-   static String foo = "Wipro"
+   static String foo = "Vamsi-Zainab-Amal-Hima-Shradha"
 
    // refer to this in a pipeline using:
    //
